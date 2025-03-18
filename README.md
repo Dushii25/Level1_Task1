@@ -55,17 +55,6 @@ This analysis provides **valuable insights** for businesses and customers by ide
 
 ---
 
-## **📂 Repository Structure**
-```
-📁 Data-Analysis-Internship  
- ┣ 📂 data/                  # Raw dataset (CSV file)
- ┣ 📂 notebooks/             # Jupyter notebooks for analysis
- ┣ 📂 scripts/               # Python scripts for automation
- ┣ 📜 README.md              # Project documentation (this file)
- ┣ 📜 requirements.txt       # Dependencies & libraries
- ┗ 📜 LICENSE                # License information
-```
-
 ---
 
 ## **📌 Next Steps**
